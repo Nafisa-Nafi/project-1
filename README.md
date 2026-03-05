@@ -2,7 +2,7 @@
 Eid al-Fitr: A Personal Storytelling Celebration
 ## Live Demo
 
-- Include a link to the live version of the project hosted on GitHub Pages.
+- https://nafisa-nafi.github.io/project-1/
 
 ## Project Overview
 
